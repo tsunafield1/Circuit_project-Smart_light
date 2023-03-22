@@ -32,16 +32,16 @@
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ใน src จะมี 1 ไฟล์
-- Esp32AllWiFiVIR.ino คือไฟล์ที่อัพโหลดลง ESP32
+- Esp32AllWiFiVIR.ino คือ ไฟล์ที่อัพโหลดลง ESP32
 
 ใน Circuit model จะมี 8 ไฟล์
-- IR Active.PNG เป็นรูปจำลองของวงจร Infrared ขณะหลอดไฟเปิด
-- IR Non-Active.PNG เป็นรูปจำลองของวงจร Infrared ขณะหลอดไฟปิด
-- LDR Active.PNG เป็นรูปจำลองของวงจร LDR sensor ขณะหลอดไฟเปิด
-- LDR Non-Active.PNG เป็นรูปจำลองของวงจร LDR sensor ขณะหลอดไฟปิด
-- Mic Active.PNG เป็นรูปจำลองของวงจร Electret microphone condenser ขณะหลอดไฟเปิด
-- Mic Non-Active.PNG เป็นรูปจำลองของวงจร Electret microphone condenser ขณะหลอดไฟปิด
-- Transistor Active.PNG เป็นรูปจำลองของวงจร Transistor ขณะหลอดไฟเปิด
-- Transistor Non-Active.PNG เป็นรูปจำลองของวงจร Transistor ขณะหลอดไฟปิด
+- IR Active.PNG คือ รูปจำลองของวงจร Infrared ขณะหลอดไฟเปิด
+- IR Non-Active.PNG คือ รูปจำลองของวงจร Infrared ขณะหลอดไฟปิด
+- LDR Active.PNG คือ รูปจำลองของวงจร LDR sensor ขณะหลอดไฟเปิด
+- LDR Non-Active.PNG คือ รูปจำลองของวงจร LDR sensor ขณะหลอดไฟปิด
+- Mic Active.PNG คือ รูปจำลองของวงจร Electret microphone condenser ขณะหลอดไฟเปิด
+- Mic Non-Active.PNG คือ รูปจำลองของวงจร Electret microphone condenser ขณะหลอดไฟปิด
+- Transistor Active.PNG คือ รูปจำลองของวงจร Transistor ขณะหลอดไฟเปิด
+- Transistor Non-Active.PNG คือ รูปจำลองของวงจร Transistor ขณะหลอดไฟปิด
 
 โปรเจคนี้เป็นส่วนหนึ่งของวิชา Circuits and Electronics ภาควิชาวิศวกรรมคอมพิวเตอร์ คณะวิศวกรรมศาสตร์ สถาบันเทคโนโลยีพระจอมเกล้าเจ้าคุณทหารลาดกระบัง
