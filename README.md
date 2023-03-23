@@ -1,7 +1,7 @@
 # Smart light box
 โปรเจคนี้มีชื่อว่า "Smart light box" หรือ "กล่องเปิด-ปิดไฟอัจฉริยะ" ทำขึ้นเพื่อทดลองสร้างวงจรไฟฟ้าเพื่อควบคุมการเปิด-ปิดหลอดไฟ โดยในโปรเจคนี้จะใช้ microcontroller ESP32 เป็นตัวควบคุม และใช้วงจร Op-amp comparator และ Transistor as a switch
 
-![alt text](https://github.com/tsunafield1/Smart_light_box/blob/main/Example.PNG)
+![alt text](https://github.com/tsunafield1/Smart_light_box/blob/main/Example.PNG?raw=true)
 
 อุปกรณ์ที่ใช้
 - ESP32
